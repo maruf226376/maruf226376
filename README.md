@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://maruf226376)
 <h1 align="center">Hi 👋, I'm Mohammad Osman Goni</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/animated-chock-coding-c78f6elj32sfoi8q.gif"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/073e698f640d45f8ce4b39d9a9606f155b1a3eef844bfafadc359ad946ad38de/68747470733a2f2f6570696370726f6772616d6d65726173736574732e6e65746c6966792e6170702f4173736574732f636f64652e6769663f7261773d74727565"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf226376&label=Profile%20views&color=0e75b6&style=flat" alt="maruf226376" /> </p>
 

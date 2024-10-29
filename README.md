@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf226376&label=Profile%20views&color=0e75b6&style=flat" alt="maruf226376" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf226376" alt="maruf226376" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Node.js**
 

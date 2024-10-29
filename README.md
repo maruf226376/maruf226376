@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://fb.com/osman.goni.84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osman.goni.84" height="30" width="40" /></a>
 <a href="https://instagram.com/bunzzybangladesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bunzzybangladesh" height="30" width="40" /></a>
-<a href="https://whatsapp.com/wa.me/+8801644828485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/+8801644828485" height="30" width="40" /></a> 
+<a href="https://whatsapp.com/qr/JAAHUNK2Q65CP1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="qr/JAAHUNK2Q65CP1" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
